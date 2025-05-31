@@ -1,4 +1,4 @@
-## <div align="center">꾸물꾸물 성장 중😸</div>  
+## <div align="center">왕감자😸</div>  
   
 
 - 2024.06.28 ~ 2024.11.28 [25회차] 채용연계 풀스택 개발자 부트캠프(스프링&리액트)
@@ -73,7 +73,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+ 
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
